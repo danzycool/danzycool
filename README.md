@@ -1,6 +1,9 @@
 ## Daniel Ohinoyi Isah
 
-
+![angular](https://user-images.githubusercontent.com/15150357/218482195-19bd15fb-56cd-4311-aec3-08fe3809f917.png) 
+![reactjs](https://user-images.githubusercontent.com/15150357/218482261-dd4e5d23-9cf1-4da3-9800-8d7265831090.png)
+![nodejs](https://user-images.githubusercontent.com/15150357/218482311-bd80c323-b285-4519-8413-3ea16e7960d8.png)
+![php](https://user-images.githubusercontent.com/15150357/218482380-b776be75-9ab9-491f-af60-fa7333b4c2b5.png)
 
 Hello World, I’m Daniel Isah, a Full Stack Software Developer, who is passionate about solving technological problems with innovative solutions.
 

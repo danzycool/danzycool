@@ -9,7 +9,7 @@
 
 ## Hello World! 🌎
 
-I’m Daniel Isah, a Full Stack Software Developer, who is passionate about solving technological problems with innovative solutions.
+I’m a Full Stack Software Developer, who is passionate about solving technological problems with innovative solutions.
 
 - 💞️ I’m interested in Angular and ReactJs Software Development, 3D Animation, Networking, Docker DevOps with 6+ years experience. I am a life long learner, who is keen and passionate about learning new things.
 - 👀 I’m looking to collaborate on Development of software that solves major problems and earns me good money.

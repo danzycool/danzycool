@@ -18,7 +18,7 @@
 
 I’m a Full Stack Software Developer, who is passionate about solving technological problems with innovative solutions.
 
-- 💞️ I’m interested in Angular, PHP, Python, NodeJS, Ionic, React Native and ReactJS based Software Development, 3D Animation, Networking, Cyber Security, Data Analytics, Cloud Computing, and Docker DevOps with 6+ years experience. I am a life long learner, who is keen and passionate about learning new things.
+- 💞️ I’m interested in Angular, PHP, Python, NodeJS, Ionic, Figma, React Native and ReactJS based Software Development, 3D Animation, Networking, Cyber Security, Data Analytics, Cloud Computing, and Docker DevOps with 6+ years experience. I am a life long learner, who is keen and passionate about learning new things.
 - 👀 I’m looking to collaborate on Development of software that solves major problems and earns me good money.
 - 📫 You can reach me @ bizwithdan@gmail.com.
 

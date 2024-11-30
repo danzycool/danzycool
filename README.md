@@ -7,6 +7,9 @@
 ![php](https://user-images.githubusercontent.com/15150357/218482380-b776be75-9ab9-491f-af60-fa7333b4c2b5.png)
 ![docker](https://user-images.githubusercontent.com/15150357/218486101-7d8c8bc6-fd53-4831-ae43-3a81b591f19f.png)
 ![aws](https://user-images.githubusercontent.com/15150357/218486131-91ed12fd-bb9b-49ab-80e0-98f31fc957d6.png)
+![Figma](https://github.com/user-attachments/assets/97e6f868-52a4-4508-8e8b-23cbe59aa1d3)
+![ionic](https://github.com/user-attachments/assets/bdbd9705-fc6f-4f37-8eaa-564cefbe83fc)
+
 
 
 ## Hello World! 🌎

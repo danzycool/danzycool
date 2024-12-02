@@ -28,7 +28,8 @@ I’m a Full Stack Software Developer, who is passionate about solving technolog
 1. Landing Page for NFTs built in react.js: https://nft-landing-page-a519e.web.app/
 2. Ecommerce Store built in react.js: https://utramall.web.app/
 3. Business Web App built with react.js: https://brainytech-99bee.web.app/
-4. Mobile App (NFT Marketplace) built in react native: https://expo.dev/login?redirect_uri=%2Faccounts%2Fdanzycool%2Fprojects%2Fnft-marketplace%2Fupdates%2Fa6185e45-4631-48a9-8c68-4e30c58b27bf
+4. Cross Platform E-commerce Mobile App built in Angular and Ionic: https://utrahubmobile.web.app/
+5. Mobile App (NFT Marketplace) built in react native: https://expo.dev/login?redirect_uri=%2Faccounts%2Fdanzycool%2Fprojects%2Fnft-marketplace%2Fupdates%2Fa6185e45-4631-48a9-8c68-4e30c58b27bf
    
 
 <!---

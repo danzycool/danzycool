@@ -2,6 +2,7 @@
 
 ![angular](https://user-images.githubusercontent.com/15150357/218482195-19bd15fb-56cd-4311-aec3-08fe3809f917.png)
 ![reactjs](https://user-images.githubusercontent.com/15150357/218488704-e391d9f0-d4a9-43cc-bd61-6d2b76550d60.png)
+![typescript](https://github.com/user-attachments/assets/61fc8e62-3de5-4d3e-9887-f941b234061b)
 ![ionic](https://github.com/user-attachments/assets/35b407c5-413e-4641-9a39-6ccadfd89fe9)
 ![Figma](https://github.com/user-attachments/assets/d2d6a63f-7b3d-4380-9143-075e44a0bfe5)
 ![nodejs](https://user-images.githubusercontent.com/15150357/218482311-bd80c323-b285-4519-8413-3ea16e7960d8.png)

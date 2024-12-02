@@ -24,7 +24,7 @@ I’m a Full Stack Software Developer, who is passionate about solving technolog
 - 📫 You can reach me @ bizwithdan@gmail.com.
 
 
-## SAMPLES OF MY WORK
+## Samples of my Work
 1. Landing Page for NFTs built in react.js: https://nft-landing-page-a519e.web.app/
 2. Ecommerce Store built in react.js: https://utramall.web.app/
 3. Business Web App built with react.js: https://brainytech-99bee.web.app/

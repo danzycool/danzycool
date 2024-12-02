@@ -23,6 +23,14 @@ I’m a Full Stack Software Developer, who is passionate about solving technolog
 - 👀 I’m looking to collaborate on Development of software that solves major problems and earns me good money.
 - 📫 You can reach me @ bizwithdan@gmail.com.
 
+
+## SAMPLES OF MY WORK
+1. Landing Page for NFTs built in react.js: https://nft-landing-page-a519e.web.app/
+2. Ecommerce Store built in react.js: https://utramall.web.app/
+3. Business Web App built with react.js: https://brainytech-99bee.web.app/
+4. Mobile App (NFT Marketplace) built in react native: https://expo.dev/login?redirect_uri=%2Faccounts%2Fdanzycool%2Fprojects%2Fnft-marketplace%2Fupdates%2Fa6185e45-4631-48a9-8c68-4e30c58b27bf
+   
+
 <!---
 danzycool/danzycool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
